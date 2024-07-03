@@ -1,5 +1,5 @@
 # Hi there! 👋  
-### Computer Engineering student at [Universiade de Aveiro](https://www.ua.pt)
+### Computer Engineering student at [Universidade de Aveiro](https://www.ua.pt)
 
 ![](https://komarev.com/ghpvc/?username=leandrocosta-git)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rcosta/)
