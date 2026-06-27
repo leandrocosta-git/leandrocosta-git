@@ -9,8 +9,7 @@
 ---
 
 ### 📂 My Work  
-- 📖 **CTF Writeups** → [leandrocosta-git/writeups](https://lrc-1.gitbook.io/lrc-docs/)  
+- 📖 **CTF Writeups** → [leandrocosta-git/writeups](https://leandrocosta-git.github.io/#/writeups)  
 - 📑 **Master’s Degree Reports** → [leandrocosta-git/reports](https://github.com/leandrocosta-git/reports)  
-- ☁️ **Cloud Security Projects** → [leandrocosta-git/secure-web-app](https://github.com/leandrocosta-git/secure-web-app)  
 
 ---
